@@ -112,7 +112,7 @@ variables declared here - these are the colors for our pages, as well as the fon
   /* contact section */
   
   #contact {
-      width: 400px;
+      width: 300px;
       text-align: center;
       margin: 0 auto;
       padding: 4rem 0;
@@ -192,6 +192,7 @@ variables declared here - these are the colors for our pages, as well as the fon
   footer {
       text-align: center;
       padding: 4rem 0;
+
   }
   
   footer ul {
